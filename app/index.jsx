@@ -5,12 +5,12 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        G L O B T E C H
+        G L O B T E C H 
       </Text>
       <Link style={styles.link} href="/goals">
         View Your Goals
       </Link>
-      <Link style={styles.link} href="/goals/create">w
+      <Link style={styles.link} href="/goals/create">
         Add a New Goal
       </Link>
     </View>
